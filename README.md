@@ -1,4 +1,4 @@
-###  👋 Hello Are you okay ?
+###  👋 Hello,Are you okay ?
 Glad you're here, feel free!
 
 - 🔭 I am currently working on personal projects.
