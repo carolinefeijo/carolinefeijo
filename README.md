@@ -2,7 +2,7 @@
 Glad you're here, feel free!
 
 - 🔭 I am currently working on personal projects.
-- 🌱 I'm learning react , React Native , JavaScript and NodeJs.
+- 🌱 I'm studying react , React Native , JavaScript and NodeJs.
 - 🤔 I'm looking for an opportunity to get a job and grow with the company.
 - 📫 How to reach me: 
 - email: contatocarolinefeijo@gmail.com
