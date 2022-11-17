@@ -8,5 +8,5 @@ Glad you're here, feel free!
 - email: contatocarolinefeijo@gmail.com
 - linkedin: caroline-feijo-26225a236/
 - ⚡ Curiosity:
--   I'm graduating in Systems Analysis and Development.
+-   I am a graduate student in Systems Analysis and Development.
 -   Graduated in Pedagogy.
