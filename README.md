@@ -1,5 +1,5 @@
 ###  👋Olá, tudo bem?
-Que bom que você está aqui, fique à vontade!**
+Que bom que você está aqui, fique à vontade!
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais.
 - 🌱 Estou estudando react , React Native , JavaScript e NodeJs.
