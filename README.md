@@ -1,12 +1,12 @@
-###  👋 Hello,Are you okay ?
-Glad you're here, feel free!
+###  👋**Olá, tudo bem?
+Que bom que você está aqui, fique à vontade!**
 
-- 🔭 I am currently working on personal projects.
-- 🌱 I'm studying react , React Native , JavaScript and NodeJs.
-- 🤔 I'm looking for an opportunity to get a job and grow with the company.
-- 📫 How to reach me: 
-- email: contatocarolinefeijo@gmail.com
-- linkedin: caroline-feijo-26225a236/
-- ⚡ Curiosity:
--  I'm a student of systems analysis and development.
--   Graduated in Pedagogy.
+- 🔭 Atualmente estou trabalhando em projetos pessoais.
+- 🌱 Estou estudando react , React Native , JavaScript e NodeJs.
+- 🤔 Procuro uma oportunidade de conseguir um emprego e crescer junto com a empresa.
+- 📫 Como chegar até mim:
+e-mail: contatocarolinefeijo@gmail.com
+linkedin: caroline-feijo-26225a236/
+- ⚡ Curiosidade:
+Sou estudante de análise e desenvolvimento de sistemas.
+Formada em Pedagogia.
