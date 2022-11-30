@@ -5,7 +5,9 @@ Que bom que você está aqui, fique à vontade!
 - 🌱 Estou estudando React , React Native , JavaScript e NodeJs.
 - 🤔 Procuro uma oportunidade de conseguir um emprego e crescer junto com a empresa.
 - 📫 Como chegar até mim:
+-  <br>
 e-mail: contatocarolinefeijo@gmail.com
+<br>
 linkedin: caroline-feijo-26225a236/
 - ⚡ Curiosidade:
 Sou estudante de análise e desenvolvimento de sistemas.
