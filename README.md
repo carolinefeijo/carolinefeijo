@@ -2,7 +2,7 @@
 Que bom que você está aqui, fique à vontade!
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais.
-- 🌱 Estou estudando react , React Native , JavaScript e NodeJs.
+- 🌱 Estou estudando React , React Native , JavaScript e NodeJs.
 - 🤔 Procuro uma oportunidade de conseguir um emprego e crescer junto com a empresa.
 - 📫 Como chegar até mim:
 e-mail: contatocarolinefeijo@gmail.com
