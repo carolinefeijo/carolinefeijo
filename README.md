@@ -8,5 +8,5 @@ Que bom que você está aqui, fique à vontade!
 -   e-mail: contatocarolinefeijo@gmail.com
 -   linkedin: caroline-feijo-26225a236/
 - ⚡ Curiosidade:
-Sou estudante de análise e desenvolvimento de sistemas.
+<p>Sou estudante de análise e desenvolvimento de sistemas.</p>
 Formada em Pedagogia.
