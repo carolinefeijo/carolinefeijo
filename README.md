@@ -1,7 +1,7 @@
 ###  👋Olá, tudo bem?
 Que bom que você está aqui, fique à vontade!
 
-- 🔭 Desenvolvedora front end na Bluelogic.
+- 🔭 Desenvolvedora front end.
 - 🌱 Estou estudando constantemente.
 - 📫 Como chegar até mim:
 -   e-mail: contatocarolinefeijo@gmail.com
