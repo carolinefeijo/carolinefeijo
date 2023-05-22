@@ -1,4 +1,4 @@
-###  👋Olá, tudo bem?
+###  👋Opaa, tudo bem?
 Que bom que você está aqui, fique à vontade!
 
 - 🔭 Desenvolvedora front end.
