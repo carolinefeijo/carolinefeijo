@@ -1,11 +1,12 @@
-###  👋Opaa, tudo bem?
-Que bom que você está aqui, fique à vontade!
 
-- 🔭 Desenvolvedora front end.
-- 🌱 Estou estudando constantemente.
-- 📫 Como chegar até mim:
--   e-mail: contatodevcarol@gmail.com
--   linkedin: caroline-feijo-26225a236/
-- ⚡ Curiosidade:
-<p>Estudante de Análise e desenvolvimento de sistemas.</p>
-<p>Formada em Pedagogia.</p>
+###👋 Olá! Como vai?
+
+É um prazer ter você por aqui. Sinta-se à vontade!
+
+🔭 Sou uma Desenvolvedora Front-end, sempre em busca de aprimoramento.
+🌱 Dedico-me constantemente aos estudos para aprimorar minhas habilidades.
+📫 Você pode entrar em contato comigo através do e-mail: contatodevcarol@gmail.com
+🔗 Conecte-se comigo no LinkedIn: linkedin.com/in/caroline-feijo-26225a236/
+⚡ Curiosidade: Sou estudante de Análise e Desenvolvimento de Sistemas.
+
+🎓 Além disso, tenho formação em Pedagogia, o que agrega uma perspectiva única ao meu perfil.
