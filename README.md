@@ -1,5 +1,4 @@
-
-###👋 Olá! Como vai?
+👋 Olá! Como vai?
 
 É um prazer ter você por aqui. Sinta-se à vontade!
 
