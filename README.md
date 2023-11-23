@@ -12,6 +12,6 @@ Atualmente, estou finalizando minha graduação  de Análise e Desenvolvimento d
 ## Como Entrar em Contato
 
 - 📧 **E-mail:** [contatodevcarol@gmail.com](mailto:contatodevcarol@gmail.com)
-- 🔗 **LinkedIn:** [Caroline Feijó](https://www.linkedin.com/in/caroline-feijo-26225a236/)
+- 🔗 **LinkedIn:** [Caroline Feijó](https://www.linkedin.com/in/caroline-feij%C3%B3-26225a236/)
 
 Fique à vontade para explorar meu repositório e descobrir mais sobre meus projetos e contribuições! Se tiver alguma pergunta ou sugestão, não hesite em [entrar em contato](mailto:contatodevcarol@gmail.com). Juntos, podemos construir algo incrível! 🚀
