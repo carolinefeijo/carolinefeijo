@@ -7,8 +7,7 @@ Atualmente, estou finalizando minha graduação  de Análise e Desenvolvimento d
 
 - 🔭 **Desenvolvedora Front-end:** Adoro criar interfaces incríveis e funcionais.
 - 🌱 **Estudos Constantes:** Comprometida em aprender e crescer profissionalmente.
-- 🎓 **Formação Acadêmica:** Graduada em Pedagogia e finalizando ADS, trazendo uma perspectiva única ao meu trabalho.
-
+- 🎓 **Formação Acadêmica:** Graduada em Pedagogia e Analise e desenvolvimento de sistemas.
 ## Como Entrar em Contato
 
 - 📧 **E-mail:** [contatodevcarol@gmail.com](mailto:contatodevcarol@gmail.com)
