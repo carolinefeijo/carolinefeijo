@@ -1,7 +1,7 @@
 # 👋 Bem-vindo(a) ao Meu Perfil!
 
 Meu nome é Caroline Feijó, uma desenvolvedora front-end em constante evolução, sempre buscando aprimorar minhas habilidades. 
-Atualmente, estou finalizando minha graduação  de Análise e Desenvolvimento de Sistemas, agregando uma base sólida ao meu conhecimento técnico.
+Formada em Análise e Desenvolvimento de Sistemas e em Pedagogia .
 
 ## Sobre Mim
 
